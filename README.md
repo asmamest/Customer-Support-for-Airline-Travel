@@ -6,7 +6,7 @@ In this project, I developed a customer support bot using LangGraph's advanced f
 
 The completed system architecture follows this general design:
 
-<img src="./img/customer-support-bot-4.png" src="./img/customer-support-bot-4.png>
+<img src="./img/customer-support-bot-4.png" src="./img/customer-support-bot-4.png">
 
 ## Implementation Setup
 
